@@ -18,7 +18,7 @@ Proyek ini merupakan analisis untuk **Oke Garden**, sebuah startup yang menyedia
   - `scikit-learn`: Untuk clustering dan algoritma machine learning.
   - `matplotlib` dan `seaborn`: Untuk visualisasi data.
   - `KMeans` : Untuk mengelompokan berdasarkan cluster.
-  - 'KNN` : Untuk mengelompokan id yang berdekatan.
+  - `KNN` : Untuk mengelompokan id yang berdekatan.
 
 ## Fitur Utama
 1. **Clustering Lokasi**: Mengelompokkan lokasi pelanggan menggunakan algoritma clustering seperti K-Means.
